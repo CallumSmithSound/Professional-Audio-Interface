@@ -8,7 +8,7 @@
 - Supports +48V Phantom Power for Condenser Microphones
 - Supports high impedance 6.35mm jack inputs for instruments (Guitars)
 - Supports a variety of headphones (Low impedance, High Current / High Impedance, High Voltage)
-- {X} Inputs, {Y} Outputs
+- 2 mic inputs, 2 line inputs, 4 line Outputs
 
 ## Preamp Design
 TODO
@@ -17,11 +17,11 @@ TODO
 TODO
 
 ## Digital Design
-Heart of the digital routing is the XMOS ~~~~.
+Heart of the digital routing and processing is the XMOS XU316. The XMOS provides low latency routing to USB.
 
-The ADC is TODO
+The ADC is the PCM1865
 
-The DAC is TODO
+The DAC is the PCM****
 
 ## Power Design
 TODO
