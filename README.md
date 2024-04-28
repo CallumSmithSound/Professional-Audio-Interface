@@ -27,6 +27,10 @@ The DAC is the PCM****
 TODO
 
 ## Images
+
+![DSCF0420](https://github.com/CallumSmithSound/Professional-Audio-Interface/assets/156929491/90adae68-8f87-4f4f-b41e-f0bd52666049)
+
 ## Design Files
+*NOT AVAILABLE*
 ## Measurements
 ## Bibliography
